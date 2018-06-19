@@ -1,0 +1,35 @@
+Token name: Voicecoin
+
+Token ticker: VC
+
+Token decimals: 18
+
+Multisig wallet address: 0x5E88736D9252C35fD1695d806997bD323C30509f
+
+*****************************
+
+Crowdsale rate: 25000
+
+Crowdsale start time: 2018-02-18T00:00 (GMT - 8)
+
+Crowdsale end time: 2018-03-18T00:00 (GMT - 8)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Finalize agent contract name: ReservedTokensFinalizeAgent
+
+Finalize agent contract address for Tier 1: 0x27C23548763017699262Cb98AeC6A9B2B3D9F7C3
+
+*****************************
+
+****Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"distributedReservedTokensDestinationsLen","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"token","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"inputs":[{"name":"_token","type":"address"},{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Finalize agent contract ABI encoded constructor arguments for Tier 1:**** 
+
+000000000000000000000000835cd6df6318f631c9faeb2405a7d9b9786b7b28000000000000000000000000a586690dfc6e72c2d1e732c221ea2235017e8e2e

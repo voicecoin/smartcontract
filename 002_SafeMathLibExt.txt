@@ -1,0 +1,31 @@
+Token name: Voicecoin
+
+Token ticker: VC
+
+Token decimals: 18
+
+Multisig wallet address: 0x5E88736D9252C35fD1695d806997bD323C30509f
+
+*****************************
+
+Crowdsale rate: 25000
+
+Crowdsale start time: 2018-02-18T00:00 (GMT - 8)
+
+Crowdsale end time: 2018-03-18T00:00 (GMT - 8)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0xc316b20014BD225449C1A6f0B8B3a005FBE2538B
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
