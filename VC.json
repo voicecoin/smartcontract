@@ -1,19 +1,19 @@
 {
   "symbol": "VC",
-  "address": "0x8cd9af9960f433d91776bfaa063d8481cf9aef51",
+  "address": "0x99637cBdef67d8Ac94af0D5f321Ea37414A3b7B0",
   "overview":{
         "en": "Voicecoin",
-        "zh": "”Ô“Ù±“"
+        "zh": "√ì√Ø√í√¥¬±√í"
   },
   "email": "support@voicecoin.com",
   "website": "https://www.voicecoin.com/",
   "whitepaper": "https://www.voicecoin.com/Voicechain_Whitepaper.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "LOCKED",
   "published_on": "2018-09-01",
   "initial_price":{
-        "ETH":"0.0000556 ETH",
-        "USD":"0.08 USD",
-        "BTC":"0.0000040 BTC"
+        "ETH":"0.00125 ETH",
+        "USD":"0.12 USD",
+        "BTC":"0.00040 BTC"
   },
   "links": {
     "twitter": "https://twitter.com/voicecoin",
