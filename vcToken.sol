@@ -209,7 +209,7 @@ contract Voicecoin is StandardToken {
   string public constant symbol = "VC";
   uint256 public constant decimals = 18;
 
-  uint256 public constant INITIAL_SUPPLY = 2100000000*10**18;
+  uint256 public constant INITIAL_SUPPLY = 21000000*10**18;
 
   /**
    * @dev Contructor that gives msg.sender all of existing tokens.
